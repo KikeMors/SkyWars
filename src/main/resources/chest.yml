@@ -1,4 +1,31 @@
 # The first value is the chance of the item appearing in a chest
 # The second value is the item, this should be an Essentials item string
 items:
-- 100 apple 1
+- 40 260 2
+- 50 346 3
+- 60 1 26
+- 60 5 24
+- 40 311 2
+- 46 310 3
+- 40 312 2
+- 46 313 3
+- 50 327 2
+- 46 326 3
+- 50 298 3
+- 40 316 2
+- 40 304 2
+- 40 302 3
+- 70 332 15
+- 60 344 12
+- 50 322 4
+- 40 320 5
+- 40 282 2
+- 40 268 2
+- 40 270 2
+- 48 276 3
+- 58 278 3
+- 40 275 2
+- 40 286 2
+- 40 283 3
+- 44 262 28
+- 50 261 2
